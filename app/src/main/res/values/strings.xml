@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application00</string>
+    <string name="calculator_button_n0">0</string>
+    <string name="calculator_button_n1">1</string>
+    <string name="calculator_button_n2">2</string>
+    <string name="calculator_button_n3">3</string>
+    <string name="calculator_button_n4">4</string>
+    <string name="calculator_button_n5">5</string>
+    <string name="calculator_button_n6">6</string>
+    <string name="calculator_button_n7">7</string>
+    <string name="calculator_button_n8">8</string>
+    <string name="calculator_button_n9">9</string>
+    <string name="calculator_button_equals">=</string>
+    <string name="calculator_button_divide">/</string>
+    <string name="calculator_button_multiply">*</string>
+    <string name="calculator_button_minus">-</string>
+    <string name="calculator_button_plus">+</string>
+</resources>
